@@ -5,9 +5,8 @@
 -  🌍 Paris University 
 -  💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
 
-Website : soon.
+Website : coming soon.
 
-- 
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=MohamedBsh&layout=compact)](https://github.com/MohamedBsh/github-readme-stats) 
