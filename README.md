@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome on board 🚀🚀 
 
-<!--
-**MohamedBsh/MohamedBsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  👨🏻‍💻 Data Scientist Intern | NLP at AP-HP (Assistance Publique des Hôpitaux de Paris)
+-  🎓 M.S degree in Mathematics and Computer Science 
+-  🌍 Paris University 
+-  💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
 
-Here are some ideas to get you started:
+Website : soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=MohamedBsh&layout=compact)](https://github.com/MohamedBsh/github-readme-stats) 
+
+<p align="right">
+  <a href="mailto:m.bousahih@gmail.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303543-cec3e500-185a-11eb-8adc-c1364e2054a9.png" title="Mail" width="40" height="40"></a>
+</p>
