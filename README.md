@@ -1,6 +1,6 @@
 ### Welcome on board 🚀🚀 
 
--  👨🏻‍💻 Data Scientist Intern | NLP at AP-HP (Assistance Publique des Hôpitaux de Paris)
+-  👨🏻‍💻 Data Scientist Intern | NLP at AP-HP (Assistance Publique des Hôpitaux de Paris) 🏥
 -  🎓 M.S degree in Mathematics and Computer Science 
 -  🌍 Paris University 
 -  💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
