@@ -1,9 +1,9 @@
 ### Welcome on board 🚀🚀 
 
-- 👨🏻‍💻  I’m Mohamed-Amine, fascinated by Deep Learning and more particularly by NLP. I never stop learning 📚. Attention is all I need.
--  📆 I'm currently Data Scientist Intern | NLP at AP-HP (Assistance Publique des Hôpitaux de Paris) 🏥
+- 👨🏻‍💻  I’m Mohamed-Amine, fascinated by Deep Learning and more particularly by NLP. I never stop learning 📚. Attention is all I need. Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques.
+-  📆 Data Scientist Intern at AP-HP (Assistance Publique des Hôpitaux de Paris) 🏥 .  Currently working on Natural Language Processing (NLP).
 -  🎓 M.S degree in Mathematics and Computer Science 
--  🌍 Paris University 
+-  🌍 Paris University : https://m2mids.github.io/m2mids/courses/
 -  💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
 
 Website : coming soon.
