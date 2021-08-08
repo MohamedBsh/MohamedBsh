@@ -4,8 +4,6 @@
 -  🌍 Paris University : https://m2mids.github.io/m2mids/courses/
 -  💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
 
-Website : coming soon.
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=MohamedBsh&layout=compact)](https://github.com/MohamedBsh/github-readme-stats) 
