@@ -1,6 +1,9 @@
 Graduated student in Mathematics and Computer Science applied to Data Science at Paris University
+
 🎓 M.S degree in Mathematics and Computer Science https://m2mids.github.io/m2mids/courses/
+
 I’m passionate about Machine Learning and Deep Learning (more particularly by NLP). I never stop learning 📚. Attention is all I need.
+
 Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques.
 
 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
