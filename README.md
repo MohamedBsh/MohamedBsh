@@ -10,7 +10,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 # Tools and Technologies
 
-### Learning 
+### Currently learning
 
 -
 
@@ -33,6 +33,10 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 ### Computational mathematics
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px" width="80px"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"  width="80px"> 
+
+### Databases
+
+-
 
 ### Others
 
