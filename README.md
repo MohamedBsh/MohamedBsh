@@ -4,7 +4,7 @@ I’m passionate about Machine Learning and Deep Learning (more particularly by 
 
 Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques.
 
-As a self-learner, I constantly seek to sharpen my knowledge and gain new skills.
+As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and gain new skills.
 
 # Tools and Technologies
 
@@ -26,7 +26,11 @@ As a self-learner, I constantly seek to sharpen my knowledge and gain new skills
 
 WIP
 
-### Open source enthusiast
+# Open source contributions
+
+WIP 
+
+# Contact 
 
 WIP
 
