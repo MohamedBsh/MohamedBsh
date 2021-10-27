@@ -4,6 +4,8 @@ I’m passionate about Machine Learning and Deep Learning (more particularly by 
 
 Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques.
 
+As a self-learner, I constantly seek to sharpen my knowledge and gain new skills.
+
 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
 
 <p align="right">
