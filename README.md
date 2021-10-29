@@ -1,6 +1,6 @@
 # Hello and Welcome! 
 
-I'm <b>Mohamed-Amine Bousahih</b>,a graduated student in Mathematics and Computer Science applied to Data Science at Paris University https://m2mids.github.io/m2mids/courses/ 🎓
+I'm <b>Mohamed-Amine Bousahih @Bsh</b>,a graduated student in Mathematics and Computer Science applied to Data Science at Paris University https://m2mids.github.io/m2mids/courses/ 🎓
 
 I’m passionate about Machine Learning and Deep Learning (more particularly by NLP). I never stop learning 📚. Attention is all I need.
 
