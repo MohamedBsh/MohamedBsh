@@ -44,12 +44,8 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c++&logoColor=white"/></a><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a><img src="https://img.shields.io/badge/Mac-A34F26?style=flat-square&logo=Mac&logoColor=white"/></a>
    
-# Open source contribution
-
-
 # 📧 Contact 📧
 
 <a href="m.bousahih@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="m.bousahih@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://github.com/MohamedBsh" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohamed-amine-bousahih/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-232F3E?style=flat-square&logo=Linkedin&logoColor=white"/></a>
