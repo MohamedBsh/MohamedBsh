@@ -29,8 +29,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### NLP
 
-<img src="https://img.shields.io/badge/spaCy-3776AB?style=for-the-badge&logo=spaCy&logoColor=white" height="25px" width="80px"><img src="https://img.shields.io/badge/HuggingFace-3776AB?style=for-the-badge&logo=HuggingFace&logoColor=white" height="25px" width="80px">
-
+</a><img src="https://img.shields.io/badge/spaCy-339933?style=flat-square&logo=spaCy&logoColor=white"/></a><img src="https://img.shields.io/badge/HuggingFace-3776AB?style=flat-square&logo=HuggingFace&logoColor=white"/>
 
 ### Computational mathematics
 
