@@ -12,8 +12,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/Typescript-232F3E?style=flat-square&logo=TypeScript%20TypeScript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Jina Jina-232F3E?style=flat-square&logo=Jina%20Jina&logoColor=white"/></a><img src="https://img.shields.io/badge/React React-232F3E?style=flat-square&logo=React%20React&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Typescript-232F3E?style=flat-square&logo=Typescript%20Typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 
 
 ### Desktop apps
@@ -26,7 +25,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### ML / DL
 
-<img src="https://img.shields.io/badge/Pytorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" height="25px" width="80px">
+<img src="https://img.shields.io/badge/Pytorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" height="25px" width="80px"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"  width="80px">
 
 ### NLP
 
@@ -43,18 +42,14 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Others
 
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c++&logoColor=white"/></a><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c++&logoColor=white"/></a><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a><img src="https://img.shields.io/badge/Mac-A34F26?style=flat-square&logo=Mac&logoColor=white"/></a>
    
 # Open source contribution
 
-- 
 
-# Contact 
+# 📧 Contact 📧
 
-WIP
-
-💼 &nbsp;[Linkedin](https://www.linkedin.com/in/mohamed-amine-bousahih/)
-
-<p align="right">
-  <a href="mailto:m.bousahih@gmail.com" class="fancybox" ><img src="https://user-images.githubusercontent.com/63207451/97303543-cec3e500-185a-11eb-8adc-c1364e2054a9.png" title="Mail" width="40" height="40"></a>
-</p>
+<a href="m.bousahih@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="m.bousahih@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://github.com/MohamedBsh" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-amine-bousahih/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-232F3E?style=flat-square&logo=Linkedin&logoColor=white"/></a>
