@@ -12,7 +12,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/Typescript-232F3E?style=flat-square&logo=TypeScript%20TypeScript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-232F3E?style=flat-square&logo=TypeScript%20TypeScript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Jina Jina-232F3E?style=flat-square&logo=Jina%20Jina&logoColor=white"/></a><img src="https://img.shields.io/badge/React React-232F3E?style=flat-square&logo=React%20React&logoColor=white"/></a>
 
 
 
@@ -39,7 +39,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Databases
 
--
+</a><img src="https://img.shields.io/badge/Neo4j-339933?style=flat-square&logo=Neo4j&logoColor=white"/></a><img src="https://img.shields.io/badge/PostgreSQL-339933?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 ### Others
 
