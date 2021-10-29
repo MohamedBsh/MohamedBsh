@@ -12,7 +12,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/React-232F3E?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/React-F9AB00?style=flat-square&logo=react&logoColor=white"/></a>
 
 
 ### Desktop apps
@@ -21,7 +21,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Data science
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px"  width="80px"> <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px" width="80px"> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="25px"  width="80px"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"  width="80px">  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="25px"  width="80px">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a><img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/></a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/></a><img src="https://img.shields.io/badge/scikit_learn-F7931E??style=flat-square&logo=scikit-learn&logoColor=white"/></a><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
 
 ### ML / DL
 
