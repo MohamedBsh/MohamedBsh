@@ -25,11 +25,11 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### ML / DL
 
-<img src="https://img.shields.io/badge/Pytorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" height="25px" width="80px"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="25px"  width="80px">
+</a><img src="https://img.shields.io/badge/Pytorch-3776AB?style=flat-square&logo=pytorch&logoColor=white"/></a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
 ### NLP
 
-</a><img src="https://img.shields.io/badge/spaCy-339933?style=flat-square&logo=spaCy&logoColor=white"/></a><img src="https://img.shields.io/badge/HuggingFace-3776AB?style=flat-square&logo=HuggingFace&logoColor=white"/>
+</a><img src="https://img.shields.io/badge/spaCy-2C2D72?style=flat-square&logo=spacy&logoColor=white"/></a><img src="https://img.shields.io/badge/HuggingFace-2C2D72?style=flat-square&logo=huggingface&logoColor=white"/>
 
 ### Computational mathematics
 
