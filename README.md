@@ -8,22 +8,27 @@ As a self-learner and open source enthusiast, I constantly seek to sharpen my kn
 
 Looking for opportunities where I can bring ideas into solutions, work on challenging projects, learn and collaborate with other talented people.
 
-<Now, i'm grinding :
+Sometimes I code, sometimes I write, sometimes I run 💭
 
-- Cracking the coding interview
+I'm working on :
+
+- Cracking the Coding Interview https://bit.ly/2ZCwKIk
 - LeetCode and MLExpert
-- Refresh my arithmetics skills by reviewing a course giving by a friends
+- Refresh my arithmetics skills by reviewing a course giving by a friend
 - TypeScript
 - React
-- Kmeans X Manim and EpilepziaDrugSentiment
-- ia-z and scikit-learn>
+- Side projects : 
+   * Kmeans X Manim
+   * EpilepziaDrugSentiments : Analyze side effects of drugs related to epilepsia on Doctissimo french forum using several approaches.
+- Open source contribution : 
+   *
+   *
 
 # Tools and Technologies
 
 ### Currently learning
 
 <img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/React-F9AB00?style=flat-square&logo=react&logoColor=white"/></a>
-
 
 ### Desktop apps
 
