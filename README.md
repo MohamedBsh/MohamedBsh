@@ -16,6 +16,7 @@ I'm working on :
 
 - Cracking the Coding Interview https://bit.ly/2ZCwKIk
 - LeetCode and MLExpert https://bit.ly/3jNeUJJ
+- Machine Learning Systems Design : https://bit.ly/3w9akKZ
 - Refresh my arithmetics skills by reviewing a course giving by a friend https://bit.ly/2XVRXfL
 - TypeScript https://bit.ly/3vTTmzQ
 - Rust https://bit.ly/3EsMUmx
