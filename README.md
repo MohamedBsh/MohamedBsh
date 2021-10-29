@@ -13,7 +13,7 @@ Sometimes I code, sometimes I write, sometimes I run 💭
 I'm working on :
 
 - Cracking the Coding Interview https://bit.ly/2ZCwKIk
-- LeetCode and MLExpert
+- LeetCode and MLExpert https://bit.ly/3jNeUJJ
 - Refresh my arithmetics skills by reviewing a course giving by a friend
 - TypeScript
 - React
