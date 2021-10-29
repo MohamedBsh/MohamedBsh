@@ -34,7 +34,8 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Computational mathematics
 
-</a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25px" width="80px"/></a><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25px"  width="80px"/> 
+</a><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=Numpy&logoColor=white"/>
+
 
 ### Databases
 
