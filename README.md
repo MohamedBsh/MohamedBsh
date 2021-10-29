@@ -12,7 +12,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" height="25px"  width="80px"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-232F3E?style=flat-square&logo=TypeScript%20TypeScript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 
 
 
