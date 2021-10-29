@@ -14,21 +14,21 @@ I'm working on :
 
 - Cracking the Coding Interview https://bit.ly/2ZCwKIk
 - LeetCode and MLExpert https://bit.ly/3jNeUJJ
-- Refresh my arithmetics skills by reviewing a course giving by a friend
-- TypeScript
-- React
+- Refresh my arithmetics skills by reviewing a course giving by a friend https://bit.ly/2XVRXfL
+- TypeScript 
+- Rust https://bit.ly/3EsMUmx
 - Side projects : 
    * Kmeans X Manim
    * EpilepziaDrugSentiments : Analyze side effects of drugs related to epilepsia on Doctissimo french forum using several approaches.
 - Open source contribution : 
-   *
-   *
+   * iA-Z
+   * scikit-learn
 
 # Tools and Technologies
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/React-F9AB00?style=flat-square&logo=react&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Rust-F9AB00?style=flat-square&logo=rust&logoColor=white"/></a>
 
 ### Desktop apps
 
