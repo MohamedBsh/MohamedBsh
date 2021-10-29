@@ -8,6 +8,16 @@ As a self-learner and open source enthusiast, I constantly seek to sharpen my kn
 
 Looking for opportunities where I can bring ideas into solutions, work on challenging projects, learn and collaborate with other talented people.
 
+<Now, i'm grinding :
+
+- Cracking the coding interview
+- LeetCode and MLExpert
+- Refresh my arithmetics skills by reviewing a course giving by a friends
+- TypeScript
+- React
+- Kmeans X Manim and EpilepziaDrugSentiment
+- ia-z and scikit-learn>
+
 # Tools and Technologies
 
 ### Currently learning
