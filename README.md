@@ -14,6 +14,10 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" height="25px"  width="80px">
 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+
+
+
 ### Desktop apps
 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"  width="80px">
@@ -40,8 +44,8 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Others
 
-- 
-
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c++&logoColor=white"/></a><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
+   
 ### Personal blog and projects 
 
 -
