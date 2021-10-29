@@ -12,9 +12,7 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" height="25px"  width="80px">
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" height="25px"  width="80px"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 
 
 
@@ -28,11 +26,12 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 ### ML / DL
 
--
+<img src="https://img.shields.io/badge/Pytorch-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" height="25px" width="80px">
 
 ### NLP
 
--
+<img src="https://img.shields.io/badge/spaCy-3776AB?style=for-the-badge&logo=spaCy&logoColor=white" height="25px" width="80px"><img src="https://img.shields.io/badge/HuggingFace-3776AB?style=for-the-badge&logo=HuggingFace&logoColor=white" height="25px" width="80px">
+
 
 ### Computational mathematics
 
