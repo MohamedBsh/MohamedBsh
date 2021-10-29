@@ -45,10 +45,6 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a><img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=c++&logoColor=white"/></a><img src="https://img.shields.io/badge/Java-339933?style=flat-square&logo=Java&logoColor=white"/></a><img src="https://img.shields.io/badge/Linux-A34F26?style=flat-square&logo=Linux&logoColor=white"/></a>
    
-### Personal blog and projects 
-
--
-
 # Open source contribution
 
 - 
