@@ -28,7 +28,7 @@ I'm working on :
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Rust-F9AB00?style=flat-square&logo=rust&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Rust-A34F26?style=flat-square&logo=rust&logoColor=white"/></a>
 
 ### Desktop apps
 
