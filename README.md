@@ -22,7 +22,7 @@ I'm working on :
 - Refresh my arithmetics skills by reviewing a course giving by a friend https://bit.ly/2XVRXfL
 - Web Dev : https://www.theodinproject.com
 - Side project : 
-   * EpilepziaDrugSentiments : Web Application which gave a bunch of information of epilepsia and drugs related to epilepsia. Based on doctissimo french forum using several NLP approaches.
+   * EpilepziaDrugSentiments : Web Application which gave a bunch of information of epilepsia (disease,drugs,side effects ..). Based on doctissimo french forum using several NLP approaches.
 - Open source contribution : 
    * iA-Z
    * scikit-learn
