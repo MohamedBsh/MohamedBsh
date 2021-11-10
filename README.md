@@ -31,7 +31,7 @@ I'm working on :
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/nodejs-A34F26?style=flat-square&logo=nodejs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
 
 ### Desktop apps
 
@@ -39,7 +39,7 @@ I'm working on :
 
 ### Data science
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a><img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/></a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/></a><img src="https://img.shields.io/badge/scikit_learn-F7931E??style=flat-square&logo=scikit-learn&logoColor=white"/></a><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a><img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white"/></a><img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white"/></a><img src="https://img.shields.io/badge/scikit_learn-F7931E??style=flat-square&logo=scikit-learn&logoColor=white"/></a><img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/></a><img src="https://img.shields.io/badge/Plotly-239120?style=plotly&logo=googlecolab&logoColor=white"/></a>
 
 ### ML / DL
 
