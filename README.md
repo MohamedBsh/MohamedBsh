@@ -17,12 +17,12 @@ I'm working on :
 - Cracking the Coding Interview https://bit.ly/2ZCwKIk
 - LeetCode and MLExpert https://bit.ly/3jNeUJJ
 - Machine Learning Systems Design : https://bit.ly/3w9akKZ
+- DoE (Design of Experiment) :
+- System Design : 
 - Refresh my arithmetics skills by reviewing a course giving by a friend https://bit.ly/2XVRXfL
-- TypeScript https://bit.ly/3vTTmzQ
-- Rust https://bit.ly/3EsMUmx
-- Side projects : 
-   * Kmeans X Manim
-   * EpilepziaDrugSentiments : Analyze side effects of drugs related to epilepsia on Doctissimo french forum using several approaches.
+- Web Dev : 
+- Side project : 
+   * EpilepziaDrugSentiments [WebApp] : Analyze side effects of drugs related to epilepsia on Doctissimo french forum using several approaches.
 - Open source contribution : 
    * iA-Z
    * scikit-learn
