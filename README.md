@@ -31,7 +31,7 @@ I'm working on :
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/NodeJS-A34F26?style=flat-square&logo=nodejs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/nodejs-A34F26?style=flat-square&logo=nodejs&logoColor=white"/></a>
 
 ### Desktop apps
 
