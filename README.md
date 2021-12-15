@@ -12,21 +12,6 @@ Looking for opportunities where I can bring ideas into solutions, work on challe
 
 Sometimes I code, sometimes I write, sometimes I run 💭
 
-I'm working on :
-
-- Cracking the Coding Interview : https://bit.ly/2ZCwKIk
-- LeetCode and MLExpert : https://bit.ly/3jNeUJJ
-- Machine Learning Systems Design : https://bit.ly/3w9akKZ
-- DoE (Design of Experiment) : https://amzn.to/3C2Nd5R
-- System Design : https://amzn.to/3F0iQ1V
-- Refresh my arithmetics skills by reviewing a course giving by a friend : https://bit.ly/2XVRXfL
-- Web Dev : https://www.theodinproject.com
-- Side project : 
-   * EpilepziaDrugSentiments : Web Application which gave a bunch of information of epilepsia (disease,drugs,side effects ..). Based on doctissimo french forum using several NLP approaches.
-- Open source contribution : 
-   * iA-Z
-   * scikit-learn
-
 # Tools and Technologies
 
 ### Currently learning
