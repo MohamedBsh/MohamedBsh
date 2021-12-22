@@ -2,9 +2,11 @@
 
 I'm <b>Mohamed-Amine Bousahih @Bsh</b>,a graduated student in Mathematics and Computer Science applied to Data Science at Paris University https://m2mids.github.io/m2mids/courses/ 🎓
 
-I’m passionate about Machine Learning and Deep Learning (more particularly by NLP). I never stop learning 📚. Attention is all I need.
+A NLP Data Scientist 👨‍🔬📑 turned Data Engineer 👷🏼🛠️
 
-Very enthusiastic to solve real-world problems using Machine Learning and Deep-Learning Techniques.
+I’m passionate about Machine Learning, Deep Learning (more particularly by NLP) and Data Engineering. I never stop learning 📚. Attention is all I need.
+
+Very enthusiastic to solve real-world problems.
 
 As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and gain new skills.
 
@@ -16,7 +18,7 @@ Sometimes I code, sometimes I write, sometimes I run 💭
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a><img src="https://img.shields.io/badge/Scala-339933?style=flat-square&logo=scala&logoColor=white"/></a>
 
 ### Desktop apps
 
@@ -42,6 +44,10 @@ Sometimes I code, sometimes I write, sometimes I run 💭
 ### Databases
 
 </a><img src="https://img.shields.io/badge/Neo4j-339933?style=flat-square&logo=Neo4j&logoColor=white"/></a><img src="https://img.shields.io/badge/PostgreSQL-339933?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+
+### Big Data
+
+<img src="https://img.shields.io/badge/Apache-Spark-339933?style=flat-square&logo=apache-spark&logoColor=white"/></a>
 
 ### Others
 
