@@ -47,7 +47,7 @@ Sometimes I code, sometimes I write, sometimes I run 💭
 
 ### Big Data
 
-<img src="https://img.shields.io/badge/Apache-Spark-339933?style=flat-square&logo=apache-spark&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ApacheSpark-339933?style=flat-square&logo=apachespark&logoColor=white"/></a>
 
 ### Others
 
