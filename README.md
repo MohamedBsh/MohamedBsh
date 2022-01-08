@@ -6,8 +6,6 @@ Very enthusiastic to solve real-world problems.
 
 As a self-learner and open source enthusiast, I constantly seek to sharpen my knowledge and gain new skills.
 
-Looking for opportunities where I can bring ideas into solutions, work on challenging projects, learn and collaborate with other talented people.
-
 Sometimes I code, sometimes I write, sometimes I run 💭
 
 # Tools and Technologies
