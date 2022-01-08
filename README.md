@@ -12,7 +12,7 @@ Sometimes I code, sometimes I write, sometimes I run 💭
 
 ### Currently learning
 
-<img src="https://img.shields.io/badge/JavaScript-3776AB?style=flat-square&logo=javascript&logoColor=white"/></a><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></a><img src="https://img.shields.io/badge/Scala-FF0000?style=flat-square&logo=scala&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Scala-FF0000?style=flat-square&logo=scala&logoColor=white"/></a><img src="https://img.shields.io/badge/Scala-FF0000?style=flat-square&logo=scala&logoColor=white"/></a>
 
 ### Desktop apps
 
