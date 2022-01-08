@@ -1,9 +1,5 @@
 # Hello and Welcome! 
 
-I'm <b>Mohamed-Amine Bousahih @Bsh</b>,a graduated student in Mathematics and Computer Science applied to Data Science at Paris University https://m2mids.github.io/m2mids/courses/ 🎓
-
-A NLP Data Scientist 👨‍🔬📑 turned Data Engineer 👷🏼🛠️
-
 I’m passionate about Machine Learning, Deep Learning (more particularly by NLP) and Data Engineering. I never stop learning 📚. Attention is all I need.
 
 Very enthusiastic to solve real-world problems.
