@@ -1,1 +1,1 @@
-* Current interest: Distributed Systems, Database, Cloud, Deep Learning acceleration, Scala, Apache Spark.
+* Current interest: dbt, Scala, Apache Spark, Distributed Systems, Database, Cloud, MLOps.
