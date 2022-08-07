@@ -1,1 +1,2 @@
-* Current interest: dbt, Scala, Apache Spark, Distributed Systems, Database, Cloud, MLOps.
+🌴 Vacationing
+* Current interest: Leetcode and trying new things.
