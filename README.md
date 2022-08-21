@@ -1,1 +1,1 @@
-* Current interest : Leetcode and trying new things.
+Always evolving, always learning
